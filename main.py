@@ -1,10 +1,9 @@
-#import math
+import math
 
-#a = int(input())
-#b = int(input())
+a = int(input())
+b = int(input())
 
 
-#c = math.sqrt( a*a + b*b )
-#print(c)
+c = math.sqrt( a*a + b*b )
+print(c)
 
-print('h')
